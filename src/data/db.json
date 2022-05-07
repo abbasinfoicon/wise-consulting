@@ -1,0 +1,791 @@
+{
+    "slider": [
+        {
+            "id": 1,
+            "title": "We Provide Consulting & Investment Services",
+            "desc": "We are best in class consulting services. The investment aspect is my own investments I make. I do not invest for others.",
+            "bg_img": "assets/images/slider/sl11-ly3.png",
+            "img": "assets/images/slider/sl11-ly1.png"
+        },
+        {
+            "id": 2,
+            "title": "Need Consulting Advice Let's Come Here !",
+            "desc": "We are best in class consulting services. The investment aspect is my own investments I make. I do not invest for others..",
+            "bg_img": "assets/images/slider/sl11-ly3.png",
+            "img": "assets/images/slider/sl11-ly2.png"
+        }
+    ],
+    "services": [
+        {
+            "id": 1,
+            "img": "assets/images/services/single/service-single-4.jpg",
+            "img_2": "assets/images/project/style2/1.jpg",
+            "img_3": "assets/images/project/style2/4.jpg",
+            "iocn": "plane",
+            "name": "Travel Logistics",
+            "slug": "travel-logistics",
+            "title": "We Ensure Best Travel Logistics Service",
+            "author": "Sumit Sign",
+            "designation": "Sr. Developer",
+            "bg_img": "assets/images/breadcrumbs/1.jpg",
+            "autor_img": "assets/images/testimonial/avatar/4.jpg",
+            "author_desc": "Cras enim urna, interdum nec porttitor vitae, sollicitudin eu eros. Praesent eget mollis nulla, non lacinia urna. Donec sit amet neque auctor, ornare dui rutrum, condimentum justo. Duis dictum, ex accumsan eleifend eleifend, ex justo aliquam nunc, in ultrices ante quam eget massa. Sed scelerisque, odio eu tempor pulvinar, magna tortor finibus lorem, ut mattis tellus nunc ut quam. Curabitur quis ornare leo. Suspendisse bibendum nibh non turpis vestibulum pellentesque.",
+            "desc": "Cras enim urna, interdum nec porttitor vitae, sollicitudin eu eros. Praesent eget mollis nulla, non lacinia urna. Donec sit amet neque auctor, ornare dui rutrum, condimentum justo. Duis dictum, ex accumsan eleifend eleifend, ex justo aliquam nunc, in ultrices ante quam eget massa. Sed scelerisque, odio eu tempor pulvinar, magna tortor finibus lorem, ut mattis tellus nunc ut quam. Curabitur quis ornare leo. Suspendisse bibendum nibh non turpis vestibulum pellentesque."
+        },
+        {
+            "id": 2,
+            "img": "assets/images/services/single/service-single-2.jpg",
+            "img_2": "assets/images/project/style2/2.jpg",
+            "img_3": "assets/images/project/style2/3.jpg",
+            "iocn": "sitemap",
+            "name": "Oil & Gas",
+            "slug": "oil-gas",
+            "title": "We Ensure Best Oil & Gas Service",
+            "author": "Priya Rai",
+            "designation": "UI Designer",
+            "bg_img": "assets/images/breadcrumbs/2.jpg",
+            "autor_img": "assets/images/testimonial/avatar/2.jpg",
+            "author_desc": "Cras enim urna, interdum nec porttitor vitae, sollicitudin eu eros. Praesent eget mollis nulla, non lacinia urna. Donec sit amet neque auctor, ornare dui rutrum, condimentum justo. Duis dictum, ex accumsan eleifend eleifend, ex justo aliquam nunc, in ultrices ante quam eget massa. Sed scelerisque, odio eu tempor pulvinar, magna tortor finibus lorem, ut mattis tellus nunc ut quam. Curabitur quis ornare leo. Suspendisse bibendum nibh non turpis vestibulum pellentesque.",
+            "desc": "Cras enim urna, interdum nec porttitor vitae, sollicitudin eu eros. Praesent eget mollis nulla, non lacinia urna. Donec sit amet neque auctor, ornare dui rutrum, condimentum justo. Duis dictum, ex accumsan eleifend eleifend, ex justo aliquam nunc, in ultrices ante quam eget massa. Sed scelerisque, odio eu tempor pulvinar, magna tortor finibus lorem, ut mattis tellus nunc ut quam. Curabitur quis ornare leo. Suspendisse bibendum nibh non turpis vestibulum pellentesque."
+        },
+        {
+            "id": 3,
+            "img": "assets/images/services/single/service-single-1.jpg",
+            "img_2": "assets/images/project/style2/3.jpg",
+            "img_3": "assets/images/project/style2/2.jpg",
+            "iocn": "line-chart",
+            "name": "Leisure",
+            "slug": "leisure",
+            "title": "We Ensure Best Leisure Service",
+            "author": "Rahul Rai",
+            "designation": "Sr. UI Developer",
+            "bg_img": "assets/images/breadcrumbs/3.jpg",
+            "autor_img": "assets/images/testimonial/avatar/5.jpg",
+            "author_desc": "Cras enim urna, interdum nec porttitor vitae, sollicitudin eu eros. Praesent eget mollis nulla, non lacinia urna. Donec sit amet neque auctor, ornare dui rutrum, condimentum justo. Duis dictum, ex accumsan eleifend eleifend, ex justo aliquam nunc, in ultrices ante quam eget massa. Sed scelerisque, odio eu tempor pulvinar, magna tortor finibus lorem, ut mattis tellus nunc ut quam. Curabitur quis ornare leo. Suspendisse bibendum nibh non turpis vestibulum pellentesque.",
+            "desc": "Cras enim urna, interdum nec porttitor vitae, sollicitudin eu eros. Praesent eget mollis nulla, non lacinia urna. Donec sit amet neque auctor, ornare dui rutrum, condimentum justo. Duis dictum, ex accumsan eleifend eleifend, ex justo aliquam nunc, in ultrices ante quam eget massa. Sed scelerisque, odio eu tempor pulvinar, magna tortor finibus lorem, ut mattis tellus nunc ut quam. Curabitur quis ornare leo. Suspendisse bibendum nibh non turpis vestibulum pellentesque."
+        },
+        {
+            "id": 4,
+            "img": "assets/images/services/single/service-single-3.jpg",
+            "img_2": "assets/images/project/style2/4.jpg",
+            "img_3": "assets/images/project/style2/5.jpg",
+            "iocn": "fire",
+            "name": "Alternative Energy",
+            "slug": "alternative-energy",
+            "title": "We Ensure Best Alternative Energy Service",
+            "author": "John Doe",
+            "designation": "Frountend Developer",
+            "bg_img": "assets/images/breadcrumbs/4.jpg",
+            "autor_img": "assets/images/testimonial/avatar/3.jpg",
+            "author_desc": "Cras enim urna, interdum nec porttitor vitae, sollicitudin eu eros. Praesent eget mollis nulla, non lacinia urna. Donec sit amet neque auctor, ornare dui rutrum, condimentum justo. Duis dictum, ex accumsan eleifend eleifend, ex justo aliquam nunc, in ultrices ante quam eget massa. Sed scelerisque, odio eu tempor pulvinar, magna tortor finibus lorem, ut mattis tellus nunc ut quam. Curabitur quis ornare leo. Suspendisse bibendum nibh non turpis vestibulum pellentesque.",
+            "desc": "Cras enim urna, interdum nec porttitor vitae, sollicitudin eu eros. Praesent eget mollis nulla, non lacinia urna. Donec sit amet neque auctor, ornare dui rutrum, condimentum justo. Duis dictum, ex accumsan eleifend eleifend, ex justo aliquam nunc, in ultrices ante quam eget massa. Sed scelerisque, odio eu tempor pulvinar, magna tortor finibus lorem, ut mattis tellus nunc ut quam. Curabitur quis ornare leo. Suspendisse bibendum nibh non turpis vestibulum pellentesque."
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "img": "assets/images/shop/1.jpg",
+            "sale": "ture",
+            "title": "qui est esse",
+            "offer_price": 100,
+            "price": 20,
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "category": "Electronic",
+            "tags": [
+                {
+                    "id": 1,
+                    "tag": "qui est esse"
+                }
+            ],
+            "color": "red, blue"
+        },
+        {
+            "id": 2,
+            "img": "assets/images/shop/2.jpg",
+            "title": "Candel Boxes",
+            "offer_price": 100,
+            "price": 15,
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "category": "Electronic",
+            "tags": [
+                {
+                    "id": 1,
+                    "tag": "Candel Boxes"
+                }
+            ],
+            "color": "red, blue"
+        },
+        {
+            "id": 3,
+            "img": "assets/images/shop/3.jpg",
+            "sale": "ture",
+            "title": "Classic Chair",
+            "offer_price": 100,
+            "price": 20,
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "category": "Electronic",
+            "tags": [
+                {
+                    "id": 1,
+                    "tag": "Classic Chair"
+                }
+            ],
+            "color": "red, blue"
+        },
+        {
+            "id": 4,
+            "img": "assets/images/shop/4.jpg",
+            "title": "Fruit Bag",
+            "offer_price": 100,
+            "price": 30,
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "category": "Electronic",
+            "tags": [
+                {
+                    "id": 1,
+                    "tag": "Fruit Bag"
+                }
+            ],
+            "color": "red, blue"
+        },
+        {
+            "id": 5,
+            "img": "assets/images/shop/5.jpg",
+            "sale": "ture",
+            "title": "Hand Watch",
+            "offer_price": 100,
+            "price": 20,
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "category": "Electronic",
+            "tags": [
+                {
+                    "id": 1,
+                    "tag": "Hand Watch"
+                }
+            ],
+            "color": "red, blue"
+        },
+        {
+            "id": 6,
+            "img": "assets/images/shop/6.jpg",
+            "title": "eum et est occaecati",
+            "offer_price": 100,
+            "price": 25,
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "category": "Electronic",
+            "tags": [
+                {
+                    "id": 1,
+                    "tag": "eum et est occaecati"
+                }
+            ],
+            "color": "red, blue"
+        },
+        {
+            "id": 7,
+            "img": "assets/images/shop/7.jpg",
+            "sale": "ture",
+            "title": "nesciunt quas odio",
+            "offer_price": 100,
+            "price": 40,
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "category": "Electronic",
+            "tags": [
+                {
+                    "id": 1,
+                    "tag": "nesciunt quas odio"
+                }
+            ],
+            "color": "red, blue"
+        },
+        {
+            "id": 8,
+            "img": "assets/images/shop/8.jpg",
+            "title": "School Chair",
+            "offer_price": 100,
+            "price": 23,
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "category": "dolorem dolore est ipsam",
+            "tags": [
+                {
+                    "id": 1,
+                    "tag": "School Chair"
+                }
+            ],
+            "color": "red, blue"
+        },
+        {
+            "id": 9,
+            "img": "assets/images/shop/9.jpg",
+            "title": "Air Freshener Electric",
+            "offer_price": 100,
+            "price": 25,
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "category": "Electronic",
+            "tags": [
+                {
+                    "id": 1,
+                    "tag": "Air Freshener Electric"
+                }
+            ],
+            "color": "red, blue"
+        },
+        {
+            "id": 10,
+            "img": "assets/images/shop/5.jpg",
+            "sale": "ture",
+            "title": "Air Freshener Electric",
+            "offer_price": 100,
+            "price": 70,
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "category": "Electronic",
+            "tags": [
+                {
+                    "id": 1,
+                    "tag": "Air Freshener Electric"
+                }
+            ],
+            "color": "red, blue"
+        },
+        {
+            "id": 11,
+            "img": "assets/images/shop/6.jpg",
+            "title": "Air Freshener Electric",
+            "offer_price": 100,
+            "price": 25,
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "category": "Electronic",
+            "tags": [
+                {
+                    "id": 1,
+                    "tag": "Air Freshener Electric"
+                }
+            ],
+            "color": "red, blue"
+        },
+        {
+            "id": 12,
+            "img": "assets/images/shop/7.jpg",
+            "sale": "ture",
+            "title": "Air Freshener Electric",
+            "offer_price": 100,
+            "price": 23,
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "category": "Electronic",
+            "tags": [
+                {
+                    "id": 1,
+                    "tag": "Air Freshener Electric"
+                }
+            ],
+            "color": "red, blue"
+        },
+        {
+            "id": 13,
+            "img": "assets/images/shop/5.jpg",
+            "sale": "ture",
+            "title": "Hand Watch",
+            "offer_price": 100,
+            "price": 20,
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "category": "Electronic",
+            "tags": [
+                {
+                    "id": 1,
+                    "tag": "Hand Watch"
+                }
+            ],
+            "color": "red, blue"
+        },
+        {
+            "id": 14,
+            "img": "assets/images/shop/6.jpg",
+            "title": "Headphone",
+            "offer_price": 100,
+            "price": 25,
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "category": "Electronic",
+            "tags": [
+                {
+                    "id": 1,
+                    "tag": "Headphone"
+                }
+            ],
+            "color": "red, blue"
+        },
+        {
+            "id": 15,
+            "img": "assets/images/shop/7.jpg",
+            "sale": "ture",
+            "title": "Medicine Bag",
+            "offer_price": 100,
+            "price": 40,
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "category": "Electronic",
+            "tags": [
+                {
+                    "id": 1,
+                    "tag": "Medicine Bag"
+                }
+            ],
+            "color": "red, blue"
+        },
+        {
+            "id": 16,
+            "img": "assets/images/shop/8.jpg",
+            "title": "School Chair",
+            "offer_price": 100,
+            "price": 23,
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "category": "Electronic",
+            "tags": [
+                {
+                    "id": 1,
+                    "tag": "School Chair"
+                }
+            ],
+            "color": "red, blue"
+        }
+    ],
+    "blog": [
+        {
+            "id": 1,
+            "title": "Covid-19 threatens the next generation of smartphones",
+            "img": "assets/images/blog/1.jpg",
+            "decs": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of  (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
+            "author": "John Doe",
+            "author_img": "assets/images/testimonial/avatar/1.jpg",
+            "category": "Electronic",
+            "slug": "covid-19-threatens-the-next-generation-of-smartphones",
+            "comment": 14
+        },
+        {
+            "id": 2,
+            "title": "Find Titles That Are Relevant To Your Audiences’ Need",
+            "img": "assets/images/blog/2.jpg",
+            "decs": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of  (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
+            "author": "Sumit Dev",
+            "author_img": "assets/images/testimonial/avatar/2.jpg",
+            "category": "Computer",
+            "slug": "find-titles-that-are-relevant-to-your-audiences-need",
+            "comment": 16
+        },
+        {
+            "id": 3,
+            "title": "Obtain The Most Relevant Title Ideas With The Keyword Term Selection",
+            "img": "assets/images/blog/3.jpg",
+            "decs": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of  (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
+            "author": "Anthony",
+            "author_img": "assets/images/testimonial/avatar/3.jpg",
+            "category": "Book",
+            "slug": "obtain-the-most-relevant-title-ideas-with-the-keyword-term-selection",
+            "comment": 10
+        },
+        {
+            "id": 4,
+            "title": "Pair Your Title With An Awesome SEO Content",
+            "img": "assets/images/blog/4.jpg",
+            "decs": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of  (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
+            "author": "Ralph",
+            "author_img": "assets/images/testimonial/avatar/4.jpg",
+            "category": "Mobile",
+            "slug": "pair-your-title-with-an-awesome-seo-content",
+            "comment": 19
+        },
+        {
+            "id": 5,
+            "title": "Great titles attract an audience",
+            "img": "assets/images/blog/5.jpg",
+            "decs": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of  (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
+            "author": "Jony sena",
+            "author_img": "assets/images/testimonial/avatar/5.jpg",
+            "category": "Account",
+            "slug": "great-titles-attract-an-audience",
+            "comment": 18
+        },
+        {
+            "id": 6,
+            "title": "Climb that SEO ranking and dominate the SERP",
+            "img": "assets/images/blog/6.jpg",
+            "decs": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of  (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
+            "author": "Akash menta",
+            "author_img": "assets/images/testimonial/avatar/2.jpg",
+            "category": "Salary",
+            "slug": "climb-that-seo-ranking-and-dominate-the-serp",
+            "comment": 17
+        },
+        {
+            "id": 7,
+            "title": "Enter your keyword to generate a list of title ideas ",
+            "img": "assets/images/blog/7.jpg",
+            "decs": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of  (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
+            "author": "Priya Kumble",
+            "author_img": "assets/images/testimonial/avatar/3.jpg",
+            "category": "Nature",
+            "slug": "enter-your-keyword-to-generate-a-list-of-title-ideas",
+            "comment": 16
+        },
+        {
+            "id": 8,
+            "title": "A good headline increases conversion up to 528%. ",
+            "img": "assets/images/blog/8.jpg",
+            "decs": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of  (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
+            "author": "Simth Doe",
+            "author_img": "assets/images/testimonial/avatar/4.jpg",
+            "category": "School",
+            "slug": "a-good-headline-increases-conversion-up-to-528",
+            "comment": 21
+        },
+        {
+            "id": 9,
+            "title": "Improved Blog Title Generator with more titles! (Updated for 2022)",
+            "img": "assets/images/blog/9.jpg",
+            "decs": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of  (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, comes from a line in section 1.10.32.",
+            "author": "Leo Doe",
+            "author_img": "assets/images/testimonial/avatar/5.jpg",
+            "category": "Electronic",
+            "slug": "improved-blog-title-generator-with-more-titles-updated-for-2022",
+            "comment": 41
+        }
+    ],
+    "testimonials": [
+        {
+            "id":1,
+            "img": "assets/images/testimonial/avatar/1.jpg",
+            "name":"Priya mam",
+            "degination": "UI Developer",
+            "comment": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere labore enim asperiores necessitatibus quia corrupti optio, exercitationem rem?",
+            "rate": 4
+        },
+        {
+            "id":2,
+            "img": "assets/images/testimonial/avatar/3.jpg",
+            "name":"Shankar Yadhav",
+            "degination": "UI Developer",
+            "comment": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere labore enim asperiores necessitatibus quia corrupti optio, exercitationem rem?",
+            "rate": 4
+        },
+        {
+            "id":3,
+            "img": "assets/images/testimonial/avatar/2.jpg",
+            "name":"Abbas Abidi",
+            "degination": "TL UI Developer",
+            "comment": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere labore enim asperiores necessitatibus quia corrupti optio, exercitationem rem?",
+            "rate": 5
+        },
+        {
+            "id":4,
+            "img": "assets/images/testimonial/avatar/4.jpg",
+            "name":"Dolly",
+            "degination": "QA Tester",
+            "comment": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere labore enim asperiores necessitatibus quia corrupti optio, exercitationem rem?",
+            "rate": 3
+        },
+        {
+            "id":5,
+            "img": "assets/images/testimonial/avatar/5.jpg",
+            "name":"Milly Mittal",
+            "degination": "BDM",
+            "comment": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere labore enim asperiores necessitatibus quia corrupti optio, exercitationem rem?",
+            "rate": 3.5
+        }
+    ],
+    "partner": [
+        {
+            "id":1,
+            "name": "Partner1",
+            "img": "assets/images/partner/gray2/1.png"
+        },
+        {
+            "id":2,
+            "name": "Partner2",
+            "img": "assets/images/partner/gray2/2.png"
+        },
+        {
+            "id":3,
+            "name": "Partner3",
+            "img": "assets/images/partner/gray2/3.png"
+        },
+        {
+            "id":4,
+            "name": "Partner4",
+            "img": "assets/images/partner/gray2/4.png"
+        },
+        {
+            "id":5,
+            "name": "Partner5",
+            "img": "assets/images/partner/gray2/5.png"
+        },
+        {
+            "id":6,
+            "name": "Partner6",
+            "img": "assets/images/partner/gray2/6.png"
+        }
+    ],
+    "team":[
+        {
+            "id":1,
+            "name": "Ara Gates",
+            "img": "assets/images/team/1.jpg",
+            "degination": "Finance Consultant",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "social": [
+                {
+                    "id": 1,
+                    "name": "facebook",
+                    "link": "https://www.facebook.com/"
+                },
+                {
+                    "id": 2,
+                    "name": "google-plus",
+                    "link": "https://myaccount.google.com/"
+                },
+                {
+                    "id": 3,
+                    "name": "twitter",
+                    "link": "https://twitter.com/"
+                },
+                {
+                    "id": 4,
+                    "name": "pinterest-p",
+                    "link": "https://in.pinterest.com/"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "name": "Mike Jason",
+            "img": "assets/images/team/2.jpg",
+            "degination": "Business Advisor",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "social": [
+                {
+                    "id": 1,
+                    "name": "facebook",
+                    "link": "https://www.facebook.com/"
+                },
+                {
+                    "id": 2,
+                    "name": "google-plus",
+                    "link": "https://myaccount.google.com/"
+                },
+                {
+                    "id": 3,
+                    "name": "twitter",
+                    "link": "https://twitter.com/"
+                },
+                {
+                    "id": 4,
+                    "name": "pinterest-p",
+                    "link": "https://in.pinterest.com/"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "name": "Francis Ibikunle",
+            "img": "assets/images/team/3.jpg",
+            "degination": "Senior Consultant",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "social": [
+                {
+                    "id": 1,
+                    "name": "facebook",
+                    "link": "https://www.facebook.com/"
+                },
+                {
+                    "id": 2,
+                    "name": "google-plus",
+                    "link": "https://myaccount.google.com/"
+                },
+                {
+                    "id": 3,
+                    "name": "twitter",
+                    "link": "https://twitter.com/"
+                },
+                {
+                    "id": 4,
+                    "name": "pinterest-p",
+                    "link": "https://in.pinterest.com/"
+                }
+            ]
+        },
+        {
+            "id":4,
+            "name": "Claire Divas",
+            "img": "assets/images/team/4.jpg",
+            "degination": "Business Advisor",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "social": [
+                {
+                    "id": 1,
+                    "name": "facebook",
+                    "link": "https://www.facebook.com/"
+                },
+                {
+                    "id": 2,
+                    "name": "google-plus",
+                    "link": "https://myaccount.google.com/"
+                },
+                {
+                    "id": 3,
+                    "name": "twitter",
+                    "link": "https://twitter.com/"
+                },
+                {
+                    "id": 4,
+                    "name": "pinterest-p",
+                    "link": "https://in.pinterest.com/"
+                }
+            ]
+        },
+        {
+            "id":5,
+            "name": "Isabella Croline",
+            "img": "assets/images/team/5.jpg",
+            "degination": "IT Consultant",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "social": [
+                {
+                    "id": 1,
+                    "name": "facebook",
+                    "link": "https://www.facebook.com/"
+                },
+                {
+                    "id": 2,
+                    "name": "google-plus",
+                    "link": "https://myaccount.google.com/"
+                },
+                {
+                    "id": 3,
+                    "name": "twitter",
+                    "link": "https://twitter.com/"
+                },
+                {
+                    "id": 4,
+                    "name": "pinterest-p",
+                    "link": "https://in.pinterest.com/"
+                }
+            ]
+        },
+        {
+            "id":6,
+            "name": "John Masud",
+            "img": "assets/images/team/6.jpg",
+            "degination": "Senior Consultant",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "social": [
+                {
+                    "id": 1,
+                    "name": "facebook",
+                    "link": "https://www.facebook.com/"
+                },
+                {
+                    "id": 2,
+                    "name": "google-plus",
+                    "link": "https://myaccount.google.com/"
+                },
+                {
+                    "id": 3,
+                    "name": "twitter",
+                    "link": "https://twitter.com/"
+                },
+                {
+                    "id": 4,
+                    "name": "pinterest-p",
+                    "link": "https://in.pinterest.com/"
+                }
+            ]
+        },
+        {
+            "id":7,
+            "name": "Corey Anderson",
+            "img": "assets/images/team/7.jpg",
+            "degination": "Assistant Director",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "social": [
+                {
+                    "id": 1,
+                    "name": "facebook",
+                    "link": "https://www.facebook.com/"
+                },
+                {
+                    "id": 2,
+                    "name": "google-plus",
+                    "link": "https://myaccount.google.com/"
+                },
+                {
+                    "id": 3,
+                    "name": "twitter",
+                    "link": "https://twitter.com/"
+                },
+                {
+                    "id": 4,
+                    "name": "pinterest-p",
+                    "link": "https://in.pinterest.com/"
+                }
+            ]
+        },
+        {
+            "id":8,
+            "name": "John Freight",
+            "img": "assets/images/team/8.jpg",
+            "degination": "Business Manager",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "social": [
+                {
+                    "id": 1,
+                    "name": "facebook",
+                    "link": "https://www.facebook.com/"
+                },
+                {
+                    "id": 2,
+                    "name": "google-plus",
+                    "link": "https://myaccount.google.com/"
+                },
+                {
+                    "id": 3,
+                    "name": "twitter",
+                    "link": "https://twitter.com/"
+                },
+                {
+                    "id": 4,
+                    "name": "pinterest-p",
+                    "link": "https://in.pinterest.com/"
+                }
+            ]
+        },
+        {
+            "id":9,
+            "name": "John Maliha",
+            "img": "assets/images/team/9.jpg",
+            "degination": "Business Advisor",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "social": [
+                {
+                    "id": 1,
+                    "name": "facebook",
+                    "link": "https://www.facebook.com/"
+                },
+                {
+                    "id": 2,
+                    "name": "google-plus",
+                    "link": "https://myaccount.google.com/"
+                },
+                {
+                    "id": 3,
+                    "name": "twitter",
+                    "link": "https://twitter.com/"
+                },
+                {
+                    "id": 4,
+                    "name": "pinterest-p",
+                    "link": "https://in.pinterest.com/"
+                }
+            ]
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
